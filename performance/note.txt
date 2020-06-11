@@ -1,0 +1,4 @@
+Classification comparison:
+1. perform eval.py: performance eval.
+2. confusion_matrix_ticker.py: draw confusion. the  confusion data come from first two rows of the file (such as metric_VGG16.txt)
+3. perform.rar:performance data
