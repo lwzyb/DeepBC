@@ -1,4 +1,4 @@
-Classifications of Breast Cancer Images by Deep Learning
+Classifications of Breast Cancer Images by Deep Learning (submitted)
 Wenzhong Liu 1, 2,*, Hualan Li2, Caijian Hua1, Liangjun Zhao1  
 
 1	School of Computer Science and Engineering, Sichuan University of Science & Engineering, Zigong, 643002, China;
