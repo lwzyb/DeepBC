@@ -1,1 +1,2 @@
-Open source tools to predict breast cancer
+Open source tools to predict breast cancer.
+The supported image formats are:svs,jpg,png,tif,bmp
