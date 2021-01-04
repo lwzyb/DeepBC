@@ -1,3 +1,2 @@
-1. Due to copyright issues, please contact the author of BreakHis to request a data set. (Https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
-
+1. Due to copyright restrictions, we cannot directly upload and forward original pictures. Please download the authentic images now from the official websites of breakhis (https://web.inf.ufpr.br/vri/da​​tabases/breast-cancer-histopathologic-database-breakhis/) and TCGA.
 2. train and test files
